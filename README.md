@@ -1,3 +1,5 @@
+![Header] (/DesireeNelsonGithubBanner.png)
+
 ### Hello! Welcome to my github! 
 My name is Desiree, and I'm a software developer based in New York City! :city:
 
