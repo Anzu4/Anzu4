@@ -1,4 +1,6 @@
-![Header] (/DesireeNelsonGithubBanner.png)
+<a href="desireenelson.dev/">
+ <img src="https://raw.githubusercontent.com/Anzu4/Anzu4/DesireeNelsonGithubBanner.png" width="100%" />
+</a>
 
 ### Hello! Welcome to my github! 
 My name is Desiree, and I'm a software developer based in New York City! :city:
