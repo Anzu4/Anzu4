@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! Welcome to my github! 
+My name is Desiree, and I'm a software developer based in New York City! :city:
+
+Please take a look around, I've pinned some of my most recent projects below.
+
+
+
 
 <!--
 **Anzu4/Anzu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
