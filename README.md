@@ -1,9 +1,9 @@
-<a href="desireenelson.dev/">
- <img src="https://raw.githubusercontent.com/Anzu4/Anzu4/DesireeNelsonGithubBanner.png" width="100%" />
-</a>
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+
 
 ### Hello! Welcome to my github! 
-My name is Desiree, and I'm a software developer based in New York City! :city:
+My name is Desiree, and I'm a software developer based in New York City! :city_sunrise:
 
 Please take a look around, I've pinned some of my most recent projects below.
 
