@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Anzu4/Anzu4/DesireeNelsonGithubBanner.png "Header")](https://desireenelson.dev/)
+[![Header](https://raw.githubusercontent.com/Anzu4/Anzu4/blob/main/githubbanner.png "Header")](https://desireenelson.dev/)
 
 
 
