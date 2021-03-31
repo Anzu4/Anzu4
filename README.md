@@ -6,8 +6,6 @@
 ### Hello! Welcome to my github! 
 My name is Desiree (she/her), and I'm a software developer based in New York City! :city_sunrise:
 
-🌱 I’m currently learning mongodb and react native.
-
 Take a look around, I've pinned some of my most recent projects below.
 
 See more at my [website](https://desireenelson.dev/)!
